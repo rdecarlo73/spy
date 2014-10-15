@@ -1,0 +1,164 @@
+@import "reset.css";
+
+body {
+  background: url(../img/background.png) left
+}
+
+div.banner {
+  position: absolute;
+  left: 225px;
+  top: 1em;
+  width: 685px;
+}
+
+div.styleswitcher {
+  position: absolute;
+  color: #C0C0C0;
+  left: 1000px;
+}
+
+div.styleswitcher a {
+  color: #C0C0C0;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000080;
+  font-size: 19pt;
+  text-align: center;
+}
+
+div.main {
+  position: absolute;
+  left: 225px;
+  top: 70px;
+  width: 452px;
+}
+
+div.gallery {
+  position: absolute;
+  left: 225px;
+  top: 400px;
+  width: 800px;
+}
+
+div.gallery img {
+  margin: .5em;
+  vertical-align: middle;
+}
+
+div.main img {
+  margin: .5em;
+  vertical-align: middle;
+}
+
+div.main p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10.0pt;
+  color: #000000;
+}
+
+div.main p.description {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 10.0pt;
+  color: #000000;
+  text-align: center;
+}
+
+div.main p.scripture {
+  font-family: Georgia;
+  font-size: 12.0pt;
+  color: #00C89B;
+  text-align: center;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14.0pt;
+  color: #000080;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12.0pt;
+  color: #000080;
+}
+
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10.0pt;
+  color: #000080;
+  text-align: center;
+}
+
+div.sidebar img {
+  margin: .5em;
+  vertical-align: middle;
+}
+/*
+a {
+  color: #EE9933;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EE9933;
+  text-decoration: underline;
+}
+*/
+div.sidebar {
+  position: absolute;
+  left: 685px;
+  top: 70px;
+  width: 265px;
+}
+
+div.sidebar h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11.0pt;
+  color: #000080;
+  text-align: center;
+}
+
+div.sidebar p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10.0pt;
+  color: #000080;
+  text-align: center;
+}
+
+div.home {
+  position: absolute;
+  left: .5em;
+  top: 23.5em;
+  width: 200px;
+}
+
+div.menu {
+  position: absolute;
+  left: .5em;
+  top: 10px;
+  width: 200px;
+}
+
+div.menu li, div.home li {
+  list-style: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  text-align: left;
+  font-size: 10.0pt;
+  color: #B3B3B3;
+  margin-top: .25em;
+}
+
+div.menu a, div.home a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+div.menu a:hover, div.home a:hover {
+  color: #00C89B;
+  text-decoration: underline;
+}

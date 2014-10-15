@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+   <!--#include file="header.html"-->
+</head>
+<body>
+  <!--#include file="site_features.html"-->
+  <div class="main">
+    <p align="center">
+    <img src="img/lifeteen_logo.png"/>
+    </p>
+    <br/>
+    <a href="pdf/parent-connect-lt3.pdf"><img align="left" src="img/parentconnect.png"/></a>
+    <a href="pdf/parent-connect-lt3.pdf"><h3>Parent Connect:</h3></a>
+    <p>
+        Each week we hope to post summaries of the nights and ways to unpack them
+        at home.  We want to help parents get a feel for what's happening at
+        each life night.<br/>
+        <br/>Last weeks Parent Connect is available
+        <a href="pdf/parent-connect-lt3.pdf">here</a>.
+    </p>
+    <br/>
+    <br/>
+    <a href="pdf/calendar-lifeteen.pdf"><img align="left" src="img/calendar.png"/></a>
+    <a href="pdf/calendar-lifeteen.pdf"><h3>Calendar:</h3></a>
+    <p>
+        The most up-to-date SPY LifeTeen Calendar for the fall is available for download
+        <a href="pdf/calendar-lifeteen.pdf">here</a>.
+    </p>
+    <br/>
+    <br/>
+    <br/>
+    <a href="pdf/winter-trip.pdf">
+            <img align="left" src="img/winter-trip.png"/></a>
+    <h3>Winter Trip Packet!</h3>
+    <p>
+        <b>Narnia: The Dawn Treader
+        <br/>March for Life
+        <br/>Mount 2000: Epic
+        <br/>Steubenville: Rooted</b>
+        <br/>
+        <br/>
+        <a href="pdf/winter-trip.pdf">
+            Get the Permission Slip Packet</a>
+    </p>
+  </div>
+  <div class="sidebar">
+    <div text-align="left" class="note">
+      <b><a href="index.shtml">Click for main page...</a></b><br/>
+      <a href="index.shtml"><img src="img/spy_logo.png"/></a><br/>
+    </div>
+      <br/>
+    <h3>The Lion and the Lamb</h3>
+    <div class="note">
+        <b>T3: Revelation Online Bible Study
+        <br/>December 2-23</b>
+        <a href="http://events.constantcontact.com/register/event?llr=ke6up9dab&oeidk=a07e352tvqr9f638693">
+            <img src="img/lion-lamb.png"/></a><br/>
+        <a href="http://events.constantcontact.com/register/event?llr=ke6up9dab&oeidk=a07e352tvqr9f638693">
+            Sign-up!</a><br/>
+        <a href="pdf/lion-lamb-1.pdf">
+            Session #1</a><br/>
+        <a href="https://my.dimdim.com/viewRecording/all/spylifeteen/default/3fd7c694-05db-407f-a8e9-d21f1a3402ce/eae7a33a-3376-4ee6-996b-8beb5cb38991">
+            Miss last week?<br/>Check out a video of the study here!</a><br/>
+        <br/>
+        <a href="pdf/lion-lamb-2.pdf">
+            Session #2</a><br/>
+        <a href="pdf/lion-lamb-code.pdf">
+            Cracking the Code</a><br/>
+    </div>
+    <br/>
+    <h3>Photos and Videos...</h3>
+    <div class="note">
+      <a target="_blank" href="http://picasaweb.google.com/106206736161599712196?authkey=Gv1sRgCKSCnsja1MKcCw">
+        <img src="img/picasa-small.png"/>
+      </a>
+      <a target="_blank" href="http://www.vimeo.com/user4970831">
+        <img src="img/vimeo-small.png"/>
+      </a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+   <!--#include file="header.html"-->
+</head>
+<body>
+  <!--#include file="site_features.html"-->
+  <div class="main">
+    <h2>
+      <img src="img/spy_logo.png"/>Youth Ministry
+    </h2>
+    <p>
+      The goal of the St. Peter's Youth ministry program is to, "lead teens closer 
+      to Christ."  We strive to do this by offering exciting, engaging and relevant
+      events that will help teenagers to realize how much Jesus loves them and desires
+      to have a personal relationship with them.  Whoever you are and wherever you
+      are in your walk of faith, you have a home at St. Peter's.  Be sure to check
+      out our next event and join us, especially if you've never joined us before!
+    </p>
+    <br/>
+    <h3>Programs:</h3>
+    <p>
+      Our youth ministry programs are based off of material from 
+      <a href="http://www.lifeteen.com/">LIFE TEEN, Inc</a>.
+      LIFE TEEN is a Eucharistic based youth ministry program which has become an international movement.  LIFE TEEN offers a 4-year 
+      curriculum for high school based on the 
+      <a href="http://www.nccbuscc.org/">USCCB</a>'s 
+      <a href="http://www.usccb.org/education/framework.pdf">high school framework of catechesis</a>
+      and a middle school curriculum to prepare teenagers for the High School curriculum.  What makes LIFE TEEN unique is it offers
+      comprehensive Catechesis in an engaging and interactive setting.
+    </p>
+    <a href="http://www.lifeteen.com/"><img src="img/lifeteen_button.png"/></a>
+    <a href="http://www.lifeteen.com/"><img src="img/edge_button.png"/></a><br/>
+    <!--<p>
+      All of our programs meet from 7:00 pm - 8:30 pm. SPY LIFE TEEN (9th - 12th grade) meets in Sappington Hall.  SPY EDGE (6th - 8th
+      grade) meets in the Parish Center.
+    </p>-->
+    <br/>
+    <a href="http://www.catholicyouthministry.com/"><img align="left" src="img/cym.png"/></a>
+    <br/>
+    <h3><a href="http://www.catholicyouthministry.com/">Become a Youth Minister!</a></h3>
+    <p>
+      If you're interested in being on one of our teams<br/>
+      just email <a href="mailto:kdemoll@archbalt.org">Ken Demoll.</a><br/>
+    </p>
+  </div>
+  <div class="sidebar">
+    <!--<div text-align="left" class="note">
+      <a href="http://web.me.com/saintpeter/The_Lost_Kingdom/Dead_Men_Tell_No_Tales....html">
+        <img src="img/LostKingdom.png"/></a><br/>
+      Our Fall retreat theme is<br/>
+      <a href="http://web.me.com/saintpeter/The_Lost_Kingdom/Dead_Men_Tell_No_Tales....html"><b>"The Lost Kingdom" </b></a><br/>
+      and is geared towards leading<br/>
+      the teens into exploring how<br/>
+      they can find the greatest<br/>
+      treasure: God's love.<br/>
+      <br/>
+      Click <a href="http://web.me.com/saintpeter/The_Lost_Kingdom/Dead_Men_Tell_No_Tales....html">here</a>
+      for more details<br/>and permission slip.
+    </div>
+    <br/>-->
+	<h3>Confirmation...</h3>
+    <div class="note">
+      <a href="http://web.me.com/saintpeter/Confirmation/Welcome.html">
+        <img src="img/holyspirit.png"/>
+      </a>
+    </div>
+    <h3>StPeterYM online...</h3>
+    <div class="note">
+      <a target="_blank" href="http://twitter.com/#!/StPeterYM">
+        <img src="img/twitter-small.png"/></a>
+      <a target="_blank" href="https://www.facebook.com/stpeterym">
+        <img src="img/facebook-small.png"/></a>
+      <a target="_blank" href="http://www.youtube.com/user/StPeterYM">
+        <img src="img/youtube.png"/></a>
+    </div>
+  </div>
+</body>
+</html>

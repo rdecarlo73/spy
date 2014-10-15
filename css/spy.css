@@ -1,0 +1,217 @@
+@import "reset.css";
+
+body {
+  background: url(../img/background.spy.png) left
+}
+
+div.banner {
+  position: absolute;
+  left: 225px;
+}
+
+div.styleswitcher {
+  position: absolute;
+  color: #EE9933;
+  left: 1000px;
+}
+
+div.styleswitcher a {
+  color: #EE9933;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+div.cal {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10.0pt;
+    color: #FFFFFF;
+    font-weight: normal;
+    width: 300px;
+    position:relative;
+    left: 3em;
+}
+
+div.cal b {
+	color: #EE9933;
+}
+
+div.cal h4 {
+	text-align: left;
+}
+
+div.note {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10.0pt;
+	color: #FFFFFF;
+	font-weight: normal;
+	text-align: center;
+}
+
+div.note b {
+	color: #EE9933;
+}
+
+div.main {
+  position: absolute;
+  left: 225px;
+  top: 50px;
+  width: 452px;
+}
+
+div.gallery {
+  position: absolute;
+  left: 225px;
+  top: 400px;
+  width: 760px;
+}
+
+div.gallery img {
+  margin: .5em;
+  vertical-align: middle;
+}
+
+div.main img {
+  margin: .5em;
+  vertical-align: middle;
+}
+
+div.main p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10.0pt;
+  color: #B3B3B3;
+}
+
+h2 {
+  font-family: Impact;
+  font-size: 28.0pt;
+  color: #EE9933;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: Impact;
+  font-size: 14.0pt;
+  color: #EE9933;
+  font-weight: normal;
+}
+
+h4 {
+  font-family: Impact;
+  font-size: 12.0pt;
+  color: #EE9933;
+  font-weight: normal;
+  text-align: center;
+}
+
+div.sidebar img {
+  margin: .5em;
+  vertical-align: middle;
+}
+
+a {
+  color: #EE9933;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EE9933;
+  text-decoration: underline;
+}
+
+div.main p.description {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 10.0pt;
+  color: #B3B3B3;
+  text-align: center;
+}
+
+div.main p.scripture {
+  font-family: Georgia;
+  font-size: 12.0pt;
+  color: #EEEE99;
+  text-align: center;
+}
+
+div.sidebar {
+  position: absolute;
+  left: 685px;
+  top: 50px;
+  width: 290px;
+  padding: 10px;
+}
+
+div.sidebar h3 {
+  font-family: Impact;
+  font-weight: normal;
+  font-size: 14.0pt;
+  color: #EE9933;
+  text-align: center;
+}
+
+div.sidebar p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10.0pt;
+  color: #EE9933;
+  text-align: center;
+  vertical-align:middle;
+}
+
+div.home {
+  position: absolute;
+  left: -1px;
+  top: 10px;
+  width: 200px;
+}
+
+div.menu {
+  position: absolute;
+  left: -1px;
+  top: 2em;
+  width: 200px;
+}
+
+div.main li {
+  list-style: disc;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 10.0pt;
+  margin-top: .25em;
+  margin-left: 2em;
+  color: #FFFFFF;
+  font-weight: normal;
+  text-align: left;
+}
+
+
+div.main li b {
+  color: #EE9933;
+}
+
+div.menu li, 
+div.home li {
+  list-style: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 10.0pt;
+  color: #B3B3B3;
+  margin-top: .25em;
+}
+
+div.menu a, 
+div.home a {
+  color: #004650;
+  text-decoration: none;
+}
+
+div.menu a:hover, 
+div.home a:hover {
+  color: #EE9933;
+  text-decoration: underline;
+}
+

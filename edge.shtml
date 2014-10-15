@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+   <!--#include file="header.html"-->
+</head>
+<body>
+  <!--#include file="site_features.html"-->
+  <div class="main">
+    <p align="center">
+    <img src="img/edge_logo.png"/>
+    </p>
+    <br/>
+    <a href="pdf/parent-connect-e4.pdf"><img align="left" src="img/parentconnect.png"/></a>
+    <a href="pdf/parent-connect-e4.pdf"><h3>Parent Connect:</h3></a>
+    <p>
+        Each week we hope to post summaries of the nights and ways to unpack them
+        at home.  We want to help parents get a feel for what's happening at
+        each life night.<br/>
+        <br/>Last weeks Parent Connect is available
+        <a href="pdf/parent-connect-e3.pdf">here</a>.
+        <br/>Next weeks Parent Connect is available
+        <a href="pdf/parent-connect-e4.pdf">here</a>.
+    </p>
+    <br/>
+    <a href="pdf/calendar-edge.pdf"><img align="left" src="img/calendar.png"/></a>
+    <a href="pdf/calendar-edge.pdf"><h3>Calendar:</h3></a>
+    <p>
+        The most up-to-date SPY Edge Calendar for the fall is available for download
+        <a href="pdf/calendar-edge.pdf">here</a>.
+    </p>
+  </div>
+  <div class="sidebar">
+    <div text-align="left" class="note">
+      <b>Click for main page...</b><br/>
+      <a href="index.shtml"><img src="img/spy_logo.png"/></a><br/>
+    </div>
+      <br/>
+    <h3>Edge Retreat!</h3>
+    <div class="note">
+        <b>On Location!
+        <br/>January 7-8</b><br/>
+        <a href="pdf/edge-retreat.pdf">
+            <img src="img/passport.png"/></a><br/>
+        <a href="pdf/edge-retreat.pdf">
+            Get Your Passport!</a><br/>(Permission Slip)
+    </div>
+      <br/>
+
+    <h3>Photos and Videos...</h3>
+    <div class="note">
+      <a target="_blank" href="http://picasaweb.google.com/106206736161599712196?authkey=Gv1sRgCKSCnsja1MKcCw">
+        <img src="img/picasa-small.png"/>
+      </a>
+      <a target="_blank" href="http://www.vimeo.com/user4970831">
+        <img src="img/vimeo-small.png"/>
+      </a>
+    </div>
+  </div>
+</body>
+</html>
